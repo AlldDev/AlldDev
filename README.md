@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/AlldDev">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
   
 <div style="display: inline_block"><br>
