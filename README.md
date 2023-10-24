@@ -1,16 +1,21 @@
-## Seja bem vindo ao meu GitHub!
+# Seja bem vindo ao meu GitHub!⚡
 <!--img align="right" alt="HelloWorld" src="gif.gif" width= "200px"-->
 
-<p>Tentando ser um desenvolvedor [Backend]... Gosto de [CyberSecurity], e ultimamente me interessando em tudo que utiliza [Sockets], [Programação Assíncrona] e [Python].(https://github.com/AlldDev)... Meus repositórios (https://github.com/AlldDev?tab=repositories).</p>
+> Ultimamente interessado em Tudo que utiliza Python, Sockets, Redes e Programação Assíncrona! (https://github.com/AlldDev)
+
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🕵️ Pesquisador em **CyberSecurity**
+- ⚙️ ~~Tentando ser~~ desenvolvedor **Backend** 
 
 <div align="center">
   <a href="https://github.com/AlldDev">
   <img height="149em" hspace="20em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img height="149em" hspace="20em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
 </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <h1> Conhecimentos</h1>
+
+  # Conhecimentos
+<div style="display: inline_block" align="left"><br>
+  <!--h1> Conhecimentos</h1-->
   <!--img align="center" alt="tonetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"-->
   <img align="center" alt="AlldDev-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AlldDev-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
