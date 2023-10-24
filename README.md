@@ -3,10 +3,10 @@
 
 <p>No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.</p>
 
-<div>
+<div align="center">
   <a href="https://github.com/AlldDev">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=shadow_red"/>
+  <img height="139em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
   
 <div style="display: inline_block"><br>
