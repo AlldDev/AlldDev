@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/AlldDev">
-  <img height="149em" hspace="2em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
+  <img height="139em" hspace="2em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
   # Conhecimentos
