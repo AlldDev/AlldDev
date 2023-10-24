@@ -1,7 +1,7 @@
-<h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
+## Seja bem vindo ao meu GitHub!
 <!--img align="right" alt="HelloWorld" src="gif.gif" width= "200px"-->
 
-<p>No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.</p>
+<p>Tentando ser um desenvolvedor [Backend]... Gosto de [CyberSecurity], e ultimamente me interessando em tudo que utiliza [Sockets], [Programação Assíncrona] e [Python].(https://github.com/AlldDev)... Meus repositórios (https://github.com/AlldDev?tab=repositories).</p>
 
 <div align="center">
   <a href="https://github.com/AlldDev">
@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-   
+  <h1> Conhecimentos</h1>
   <!--img align="center" alt="tonetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"-->
   <img align="center" alt="AlldDev-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AlldDev-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,9 +20,8 @@
   <img align="center" alt="AlldDev-SQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-##
-
 ![Snake animation](snake.svg)
+
 
 <!---
 AlldDev/AlldDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
