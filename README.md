@@ -1,10 +1,10 @@
 <h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
 <img align="right" alt="HelloWorld" src="gif.gif" width= "200px">
 
-No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.
+<p>No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.</p>
 
 <div>
-  <a href="https://github.com/Tonetto17">
+  <a href="https://github.com/AlldDev">
   <img height="149em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
