@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alessandro+Rosão;I'm+22+years+old;I'm+from+Brazil;I'm+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Alessandro.;Tenho+22+anos...;Moro+no+Brasil!;Cursando+Análise+e+Desenvolvimento+de+Sistemas!;Bem+Vindo+:%29)](https://git.io/typing-svg)
 
 > Ultimamente interessado em Tudo que utiliza Python, Sockets, Redes e Programação Assíncrona! (https://github.com/AlldDev)
 
@@ -10,17 +10,13 @@
 - 🐧 **Linux** > ~~Windows~~
 
 <div align="center">
-  <a href="https://github.com/AlldDev">
+  <a href="[https://github.com/AlldDev](https://github.com/AlldDev?tab=repositories)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
-
-
 ### <h2 color=00BFFF>Main skills:</h2>
 
-
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;-->
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -32,6 +28,7 @@
 <!--![NODE.JS](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
 <!--![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;-->
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;-->
 
 
 
