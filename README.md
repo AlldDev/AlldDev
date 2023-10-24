@@ -5,7 +5,8 @@
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🕵️ Pesquisador em **CyberSecurity**
-- ⚙️ ~~Tentando ser~~ desenvolvedor **Backend** 
+- ⚙️ ~~Tentando ser~~ desenvolvedor **Backend**
+- 🐧 **Linux** > ~~Windows~~
 <br><br>
 
 
@@ -15,7 +16,7 @@
   <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
-  # Conhecimentos
+  # Conhecimentos 💡
 <div style="display: inline_block" align="left"><br>
   <!--h1> Conhecimentos</h1-->
   <!--img align="center" alt="tonetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"-->
