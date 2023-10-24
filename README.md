@@ -1,5 +1,5 @@
 # Seja bem vindo ao meu GitHub!⚡
-<!--img align="right" alt="HelloWorld" src="gif.gif" width= "200px"-->
+<img align="right" alt="HelloWorld" src="computer-screen.gif" width= "250px">
 
 > Ultimamente interessado em Tudo que utiliza Python, Sockets, Redes e Programação Assíncrona! (https://github.com/AlldDev)
 
