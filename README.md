@@ -1,11 +1,12 @@
 <!--IMAGEM PRINCIPAL A DIREITA-->
 <img src="https://github.com/AlldDev/AlldDev/blob/main/cc.gif" alt="ilustração de um hypercubo" min-width="500px" max-width="500px" width="500px" align="right">
-<br>
 <!--BODY PRINCIPAL-->
+<h2 align="left">Bem Vindos!</h2>
 <p align="left"> 
-  Bem Vindo, Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza: <b>
+  Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza: <b>
   🐍Python | 🛰️Sockets | 🌐Redes | ☁️Cloud | 🧟‍♂️Programação Assíncrona!</b>
 </p>
+<h2 align="left">Sobre</h2>
 <p align="left">
   💻 Cursando Análise e Desenvolvimento de Sistemas</p>
   
