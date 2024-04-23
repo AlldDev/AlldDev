@@ -15,19 +15,7 @@
 <p align="left">
   🐧 Linux > Windows
 </p>
-
-<!--p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=#" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=#" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=#" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=#" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=#" alt="Instagram"/></a-->
-</p>
+</p><br><br><br>
 
 ### ⚙️ GitHub Analytics
 <table>
@@ -56,13 +44,13 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+
+### ⚙️ Main Skills
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/AlldDev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+    <img align="left" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+    <img align="left" src="https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
+    <img align="left" src="https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
+    <img align="left" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
+    <img align="left" src="https://img.shields.io/badge/-_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117"/>
 </p>
