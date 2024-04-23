@@ -19,7 +19,7 @@
 <p align="left">
   🐧 Linux > Windows</p></p>
 
-<br>
+<br><br>
 <!--PARTE DAS SKILLS-->
 <h2 align="center">🍃 Main Skills</h2>
 <p align="center">
