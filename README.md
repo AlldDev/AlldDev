@@ -28,7 +28,6 @@
     <img align="center" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
     <img align="center" src="https://img.shields.io/badge/-_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117"/>
 </p>
-<br>
 
 <!--PARTE PARA O GITHUB ANALYTICS-->
 <h2 align="center">⚙️ GitHub Analytics</h2>
