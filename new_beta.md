@@ -1,4 +1,4 @@
-<img src="https://github.com/AlldDev/AlldDev/blob/main/hypercube.gif" alt="ilustração de um hypercubo" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="https://github.com/AlldDev/AlldDev/blob/main/cc.gif" alt="ilustração de um hypercubo" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
   Bem Vindo, Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza Python, Sockets, Redes e Programação Assíncrona!
