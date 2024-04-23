@@ -1,4 +1,4 @@
-<img src="https://github.com/AlldDev/AlldDev/blob/main/fb.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/AlldDev/AlldDev/blob/main/hypercube.gif" alt="ilustração de um hypercubo" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
   Bem Vindo, Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza Python, Sockets, Redes e Programação Assíncrona!
@@ -15,7 +15,7 @@
 <p align="left">
   🐧 Linux > Windows
 </p>
-</p><br><br><br>
+</p><br>
 
 ### ⚙️ GitHub Analytics
 <table>
