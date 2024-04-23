@@ -2,7 +2,7 @@
 <!--BODY PRINCIPAL-->
 <h2 align="center">⚡Sejam Bem Vindos!</h2>
 <p align="left"> 
-  <img src="https://github.com/AlldDev/AlldDev/blob/main/cybersecurity.gif" alt="ilustração cybersecurity" min-width="500px" max-width="500px" width="450px" align="right">
+  <img src="https://github.com/AlldDev/AlldDev/blob/main/cybersecurity.gif" alt="ilustração cybersecurity" min-width="300px" max-width="450px" width="450px" align="right">
   Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza: <b>
   🐍Python | 🛰️Sockets | 🌐Redes | ☁️Cloud | 🧟‍♂️Programação Assíncrona!</b>
 </p>
