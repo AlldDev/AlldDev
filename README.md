@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AlldDev&color=006bed)
 <!--IMAGEM PRINCIPAL A DIREITA-->
 <!--BODY PRINCIPAL-->
 <h2 align="center">⚡Sejam Bem Vindos!</h2>
