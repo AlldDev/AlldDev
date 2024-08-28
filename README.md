@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=AlldDev&color=006bed)
 <!--IMAGEM PRINCIPAL A DIREITA-->
 <!--BODY PRINCIPAL-->
-<h2 align="center">⚡Sejam Bem Vindos!</h2>
+<h2 align="center">Olá, seja bem vindos!⚡</h2>
 <p align="left"> 
   <img src="assets/cybersecurity.gif" alt="ilustração cybersecurity" min-width="300px" max-width="450px" width="450px" align="right">
   Meu nome é Alessandro e ultimamente me interesso em tudo que utiliza: <b>
@@ -28,7 +28,7 @@
     <img align="center" src="https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
     <img align="center" src="https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
     <img align="center" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
-    <img align="center" src="https://img.shields.io/badge/-_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117"/>
+    <img align="center" src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117"/>
 </p>
 
 <!--PARTE PARA O GITHUB ANALYTICS-->
