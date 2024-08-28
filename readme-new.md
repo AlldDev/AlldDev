@@ -13,29 +13,23 @@ interesses = {'key1': '🐍 Python',
               'key4': '☁️ Cloud',
               'key5': '🧟‍♂️ Programação Assíncrona'}
 
+sobre = {'key1': '💻 Cursando Análise e Desenvolvimento de Sistemas',
+         'key2': '🕵️ Pesquisador em CyberSecurity',
+         'key3': '⚙️ Foco em Backend',
+         'key4': '🐧 Linux > Windows'}
+
 #############################################
 # Main
 #############################################
 if __name__ == '__main__':
     print(f'Meu nome é {nome} e atualmente me interesso em tudo que utiliza:')
+    for _, i in interesses.items():
+        print(f'* {i}')
 
-    for _, interesse in interesses.items():
-        print(interesse)  
+    print('Sobre:')
+    for _, i in sobre.items():
+        print(f'* {i}')
 ```
-<h2 align="left">☕Sobre</h2>
-<p align="left">
-  💻 Cursando Análise e Desenvolvimento de Sistemas</p>
-  
-<p align="left">
-  🕵️ Pesquisador em <b>CyberSecurity</b></p>
-  
-<p align="left">
-  ⚙️ Foco em Backend</p>
-  
-<p align="left">
-  🐧 Linux > Windows</p></p>
-
-<br><br>
 <!--SKILLS-->
 <h2 align="center">🍃 Main Skills</h2>
 <p align="center">
