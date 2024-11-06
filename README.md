@@ -1,5 +1,5 @@
 # Olá, seja bem vindo! ⚡
-![image](/assets/img.jpg)
+![image](/assets/6.gif)
 
 ### <p>![](https://komarev.com/ghpvc/?username=AlldDev&color=006bed)</p>
 
