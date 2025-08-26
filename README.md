@@ -4,18 +4,22 @@
 
 ---
 ### 🎯 Interesses e Objetivos
-- 🐍 Aprimorando habilidades em Python, com foco em automação e desenvolvimento back-end.
-- 🌐 Exploração e implementação de soluções em Redes e Cloud.
-- 🕵️ Engajamento em pesquisas e práticas de CyberSecurity.
+- 🐍 Aprimorando habilidades em Python, foco em Automação, Backend e APIs Rest.
+- 🌐 Exploração e implementação de soluções Distribuidas (Cloud, OnPremise, Hybrid).
+- 🕵️ Engajamento em pesquisas e práticas de CyberSecurity (RedTeam?).
+- 🐧 Unix-Like (Debian, Ubuntu, Rocky, Arch).
+- 🔒 Entusiasta em Criptografias.
 
 ---
 
 ### 🍃 Main Skills
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/-JS-0D1117?style=for-the-badge&logo=JavaScript&logoColor=1572B6&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
+  <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=Flask&labelColor=0D1117&textColor=0D1117"/>
+  <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=FastAPI&labelColor=0D1117&textColor=0D1117"/>
+  <img src="https://img.shields.io/badge/-jinja-0D1117?style=for-the-badge&logo=jinja&labelColor=0D1117&textColor=0D1117"/>
 </div>
 
 ---
