@@ -6,7 +6,7 @@
 ### 🎯 Interesses e Objetivos
 - 🐍 Aprimorando habilidades em Python, com foco em automação e desenvolvimento back-end.
 - 🌐 Exploração e implementação de soluções em Redes e Cloud.
-- 🕵️ Engajamento em pesquisas e práticas de CyberSecurity, especialmente em contextos de programação assíncrona.
+- 🕵️ Engajamento em pesquisas e práticas de CyberSecurity.
 
 ---
 
