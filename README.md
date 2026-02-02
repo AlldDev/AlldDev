@@ -2,8 +2,7 @@
 Profissional de TI com foco em automação, DevOps e administração de servidores, atuando no desenvolvimento de soluções escaláveis e seguras em ambientes on-premise e cloud.
 
 ---
-### 🎯 Áreas de Interesse e Atuação
-
+### 🧠 Áreas de Interesse e Atuação
 - 🐍 Python para automação e desenvolvimento backend  
 - 🚀 Desenvolvimento web com Flask e Jinja2  
 - 🔌 Construção de APIs REST com FastAPI  
@@ -13,22 +12,24 @@ Profissional de TI com foco em automação, DevOps e administração de servidor
 ---
 
 ### 🍃 Principais habilidades
-<div display="inline-block">
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=Flask&labelColor=0D1117&textColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-jinja-0D1117?style=for-the-badge&logo=jinja&labelColor=0D1117&textColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=FastAPI&labelColor=0D1117&textColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&labelColor=0D1117&textColor=0D1117"/>
+<div style="display:inline-block">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Jinja-0D1117?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=EE0000" alt="Ansible"/>
 </div>
 
+
 ### 🛠️ Habilidades Secundárias
-<div display="inline-block">
-  <img src="https://img.shields.io/badge/-JS-0D1117?style=for-the-badge&logo=JavaScript&logoColor=1572B6&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117"/>
+<div style="display:inline-block">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
 </div>
+
 
 ---
 
