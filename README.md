@@ -9,26 +9,14 @@ Profissional de TI com foco em automação, DevOps e administração de
 servidores, atuando no desenvolvimento de soluções escaláveis e
 seguras em ambientes on-premise e cloud.
 
-+ alessandro@devbox:~$ ls areas_de_interesse/
-  🐍 Python          automação e desenvolvimento backend
-  🚀 Flask e Jinja2  desenvolvimento web
-  🔌 FastAPI         construção de APIs REST
-  🐧 Linux           uso e administração básica de ambientes
-  🌐 Async Python    programação assíncrona em projetos pessoais
-
 + alessandro@devbox:~$ skills --principais
-  Python                 ██████████████████░░ 90%
-  FastAPI                █████████████████░░░ 85%
-  Flask / Jinja2         ████████████████░░░░ 80%
-  Linux (admin básica)   ███████████████░░░░░ 75%
-  Automação / Scripts    █████████████████░░░ 85%
-
-+ alessandro@devbox:~$ skills --secundarias
-  Docker / Docker Compose   ████████████░░░░░░░░ 60%
-  Async I/O                 ███████████░░░░░░░░░ 55%
-  Plesk / Hosting           ████████████░░░░░░░░ 60%
-  Git                       █████████████░░░░░░░ 65%
-  APIs REST (integração)    ███████████████░░░░░ 75%
+  Python3                   ██████████████████░░ 90%
+  Linux                     ███████████████░░░░░ 75%
+  Automação / Scripts       █████████████████░░░ 85%
+  FastAPI / Flask / Jinja2  █████████████████░░░ 85%
+  Docker / Docker Compose   ██████████████░░░░░░ 70%
+  Git / Github / Bitbucket  ██████████████████░░ 88%
+  React / Node              ████████████░░░░░░░░ 60%
 
 + alessandro@devbox:~$ cat contato.txt
   Email:    suporte@alld.dev
